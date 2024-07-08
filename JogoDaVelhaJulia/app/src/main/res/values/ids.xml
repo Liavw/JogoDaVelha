@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dificuldadeFacil" type="id" />
+    <item name="dificuldadeDificil" type="id" />
+    <item name="modoJogadorVsMaquina" type="id" />
+    <item name="modoJogadorVsJogador" type="id" />
+    <item name="buttonZero" type="id" />
+</resources>
